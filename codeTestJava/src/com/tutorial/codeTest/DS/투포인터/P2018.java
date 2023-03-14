@@ -19,8 +19,8 @@ public class P2018 {
 			else if(sum < N)
 				sum += ++end;
 			else {
-				sum += ++end;
 				++count;
+				sum += ++end;
 			}
 		}
 		System.out.println(count);
