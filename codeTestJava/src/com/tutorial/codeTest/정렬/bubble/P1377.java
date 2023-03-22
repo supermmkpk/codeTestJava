@@ -1,4 +1,4 @@
-package com.tutorial.codeTest.DS.정렬;
+package com.tutorial.codeTest.정렬.bubble;
 
 import java.io.*;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.tutorial.codeTest.DS.정렬;
+package com.tutorial.codeTest.정렬.selection;
 
 import java.io.IOException;
 import java.io.BufferedReader;
